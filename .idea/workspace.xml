@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568406061199</updated>
-      <workItem from="1568406072934" duration="2468000" />
+      <workItem from="1568406072934" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="Atividades">
       <created>1568406785805</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568408000298</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Codigo das Atividades">
+      <created>1568408706794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568408706794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
       <path value="$PROJECT_DIR$/lista" />
     </ignored-roots>
     <MESSAGE value="Atividades" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atividades" />
+    <MESSAGE value="Codigo das Atividades" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigo das Atividades" />
   </component>
 </project>
